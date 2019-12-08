@@ -1,0 +1,6 @@
+framework module Pods_AppCocoapodIOS {
+  umbrella header "Pods-AppCocoapodIOS-umbrella.h"
+
+  export *
+  module * { export * }
+}
